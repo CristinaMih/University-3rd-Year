@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<Forma>
+  <textBox nume="Nume" detalii="Nume Angajat"/>
+  <textBox nume="Prenume" detalii="Prenume Angajat"/>
+  <textBox CNP ="CNP" detalii="CNP Angajat"/>
+  <radioButton nume="gen" detalii="Gen:">
+  <val>masculin</val>
+  <val>feminin</val>
+  </radioButton>
+  <checkBox>
+    <val>C</val>
+    <val>C++</val>
+    <val>C#</val>
+    <val>Java</val>
+    <val>Python</val>
+  </checkBox>
+  <listBox judet="Judet" detalii ="Judet Domiciliu">
+    <val>Alba</val>
+    <val>Arad</val>
+    <val>Hunedoara</val>
+    <val>Timis</val>
+    <val>Bihor</val>
+    <val>Olt</val>
+    <val>Gorj</val>
+  </listBox>
+</Forma>

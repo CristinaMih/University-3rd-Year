@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP-L5-P1-v2.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP_L5_P1_v2.Form1.resources
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP_L5_P1_v2.Properties.Resources.resources
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP-L5-P1-v2.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP-L5-P1-v2.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\MTP-L5-P1-v2\bin\Debug\MTP-L5-P1-v2.exe.config
+C:\Users\crist\source\repos\MTP-L5-P1-v2\bin\Debug\MTP-L5-P1-v2.exe
+C:\Users\crist\source\repos\MTP-L5-P1-v2\bin\Debug\MTP-L5-P1-v2.pdb
+C:\Users\crist\source\repos\MTP-L5-P1-v2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\crist\source\repos\MTP-L5-P1-v2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\crist\source\repos\MTP-L5-P1-v2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP-L5-P1-v2.csproj.CopyComplete
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP-L5-P1-v2.exe
+C:\Users\crist\source\repos\MTP-L5-P1-v2\obj\Debug\MTP-L5-P1-v2.pdb
