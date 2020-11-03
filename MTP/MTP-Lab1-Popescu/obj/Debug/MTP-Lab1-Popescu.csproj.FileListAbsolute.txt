@@ -1,0 +1,6 @@
+C:\Users\crist\source\repos\MTP-Lab1-Popescu\bin\Debug\MTP-Lab1-Popescu.exe.config
+C:\Users\crist\source\repos\MTP-Lab1-Popescu\bin\Debug\MTP-Lab1-Popescu.exe
+C:\Users\crist\source\repos\MTP-Lab1-Popescu\bin\Debug\MTP-Lab1-Popescu.pdb
+C:\Users\crist\source\repos\MTP-Lab1-Popescu\obj\Debug\MTP-Lab1-Popescu.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\MTP-Lab1-Popescu\obj\Debug\MTP-Lab1-Popescu.exe
+C:\Users\crist\source\repos\MTP-Lab1-Popescu\obj\Debug\MTP-Lab1-Popescu.pdb

@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\L2-MTP\bin\Debug\L2-MTP.exe.config
+C:\Users\crist\source\repos\L2-MTP\bin\Debug\L2-MTP.exe
+C:\Users\crist\source\repos\L2-MTP\bin\Debug\L2-MTP.pdb
+C:\Users\crist\source\repos\L2-MTP\obj\Debug\L2-MTP.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\L2-MTP\obj\Debug\L2_MTP.Form1.resources
+C:\Users\crist\source\repos\L2-MTP\obj\Debug\L2_MTP.Properties.Resources.resources
+C:\Users\crist\source\repos\L2-MTP\obj\Debug\L2-MTP.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\L2-MTP\obj\Debug\L2-MTP.exe
+C:\Users\crist\source\repos\L2-MTP\obj\Debug\L2-MTP.pdb
+C:\Users\crist\source\repos\L2-MTP\obj\Debug\L2_MTP.Form2.resources

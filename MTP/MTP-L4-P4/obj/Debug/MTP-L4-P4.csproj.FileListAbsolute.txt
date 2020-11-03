@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\MTP-L4-P4\bin\Debug\MTP-L4-P4.exe.config
+C:\Users\crist\source\repos\MTP-L4-P4\bin\Debug\MTP-L4-P4.exe
+C:\Users\crist\source\repos\MTP-L4-P4\bin\Debug\MTP-L4-P4.pdb
+C:\Users\crist\source\repos\MTP-L4-P4\obj\Debug\MTP-L4-P4.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\MTP-L4-P4\obj\Debug\MTP_L4_P4.Form1.resources
+C:\Users\crist\source\repos\MTP-L4-P4\obj\Debug\MTP_L4_P4.Properties.Resources.resources
+C:\Users\crist\source\repos\MTP-L4-P4\obj\Debug\MTP-L4-P4.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\MTP-L4-P4\obj\Debug\MTP-L4-P4.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\MTP-L4-P4\obj\Debug\MTP-L4-P4.exe
+C:\Users\crist\source\repos\MTP-L4-P4\obj\Debug\MTP-L4-P4.pdb
